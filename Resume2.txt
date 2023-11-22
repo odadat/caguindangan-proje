@@ -1,0 +1,50 @@
+<!DOCTYPE>
+<html>
+
+<head>
+<title>PERSONAL INFO.</title>
+</head>
+
+<body style="background-color:mobile.jpg;">
+   <div id="Menu"allign="right">
+        <a href="HTML.html"><h2><font color=<blue>|:|</font></h2></a>
+   </div>
+<header>
+    <h2>Cherry Mae C.</h2>
+    <h3>JRMSU-TC STUDENT</h3>
+<header>
+
+<section>
+    <h2><b><u>Contact Information</u></b></h3>
+    <p>Email:caguindangancherrymae@gmail.com</p>
+    <p>Phone:09758012263</h3>
+</section>
+
+    <h3><b><u>EDUCATIONAL BACKGROUND</u></b></h3>
+    <h4>ELEMENTARY LEVEL</h4>
+    <p>School:Raba Elementary School</p>
+    <p>Address:Raba, Godod Zamboanga del Norte</p>
+<p>Year Graduated:2012-2013</p>
+<section>
+<section>
+   <h4>JUNIOR HIGH SCHOOL LEVEL</h4>
+   <p>School:Raba National High School</p>
+   <p>Address:Raba, Godod Zamboanga del Norte</p>
+<p>Year Graduated:2016-2017</p>
+</section>
+<section>
+   <h4>Senior High School</h>
+   <p>School:Liloy National High School</p>
+   <p>Address:Liloy Zamboanga del Norte</p>
+   <p>Year Graduated:2018-2019</p>
+</section>
+<section>
+   <h3><b><u>TRAINING EXPERIENCE</u></b></h3>
+   <p>Liloy Training Center</p>
+</section>
+
+</body>
+</html>
+
+
+
